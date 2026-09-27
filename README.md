@@ -1,4 +1,4 @@
-# MONO — Modern E-commerce Storefront
+# MONO Modern E-commerce Storefront
 
 A polished, responsive ecommerce storefront concept built to demonstrate modern frontend UI, product browsing, filtering, and shopping interactions.
 
